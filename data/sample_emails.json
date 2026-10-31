@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "billing@canva.com",
+    "subject": "Your Canva Enterprise subscription renews soon",
+    "body": "Your Canva Enterprise subscription will automatically renew on November 15, 2026. Amount: 18 USD per month. 15 seats included."
+  },
+  {
+    "sender": "billing@adobe.com",
+    "subject": "Adobe Creative Cloud renewal notice",
+    "body": "Your Adobe Creative Cloud subscription will automatically renew on November 5, 2026. Your monthly payment is 42 USD. 10 licenses included."
+  },
+  {
+    "sender": "aws-billing@amazon.com",
+    "subject": "AWS billing notification",
+    "body": "Your AWS subscription invoice is due. Amount: 195 USD per month. Your AWS services renew automatically."
+  },
+  {
+    "sender": "billing@zoom.us",
+    "subject": "Your Zoom Pro subscription renewal",
+    "body": "Your Zoom Pro subscription will automatically renew on December 2, 2026. Amount: 12 USD per month. 8 licenses included."
+  },
+  {
+    "sender": "billing@notion.so",
+    "subject": "Notion subscription invoice",
+    "body": "Your Notion Business plan invoice is 15 USD per month. The subscription will automatically renew on November 20, 2026. 20 seats included."
+  },
+  {
+    "sender": "facturation@djezzy.dz",
+    "subject": "Djezzy Business renewal notice",
+    "body": "Votre abonnement Djezzy Business sera renouvelé automatiquement le 25 novembre 2026. Montant: 8000 DZD par mois. 10 lignes incluses."
+  }
+]
